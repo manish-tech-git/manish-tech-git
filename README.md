@@ -1,19 +1,19 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://www.linkedin.com/in/manish-kumar-tech/)
+[![MasterHead](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)](https://www.linkedin.com/in/manish-kumar-tech/)
 
 
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
-<h3 align="center">A passionate Java Developer and ML enthusiast from India</h3>
+<h3 align="center">Passionate about Java, Machine Learning, and the endless possibilities of Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-tech-git&label=Profile%20views&color=0e75b6&style=flat" alt="manish-tech-git" /> </p>
 
-- 🔭 I’m currently working on **Development**
+- 🔭 I’m currently working on **Development using Java**
 
 - 🌱 I’m currently learning **System Design, Spring, Spring Boot, MVC, JDBC, Hibernate and more.**
 
-- 👨‍💻 All of my projects are available at [on my GitHub](on my GitHub)
+- 👨‍💻 All of my projects are available **on my GitHub.**
 
-- 💬 Ask me about **Development, Data Structures, Machine Learning**
+- 💬 Ask me about **Development, Data Structures, and Machine Learning.**
 
 - 📫 How to reach me **kummanish00@gmail.com**
 
