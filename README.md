@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)](https://www.linkedin.com/in/manish-kumar-tech/)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://www.linkedin.com/in/manish-kumar-tech/)
 
 
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
